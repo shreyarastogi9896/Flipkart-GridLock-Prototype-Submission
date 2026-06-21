@@ -1,0 +1,9 @@
+event_cause,historical_incidents,closure_rate,median_duration,mean_duration
+accident,365,0.03,90,111
+congestion,136,0.04,151,140
+procession,72,0.26,126,139
+protest,15,0.4,373,797
+public_event,84,0.46,355,1867
+tree_fall,284,0.39,64,3752
+vehicle_breakdown,4893,0.04,131,202
+vip_movement,20,0.8,300,2257

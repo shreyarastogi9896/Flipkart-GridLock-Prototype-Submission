@@ -1,0 +1,601 @@
+event_cause,zone,junction,historical_incidents,closure_rate,median_duration,mean_duration
+accident,Central Zone 1,BloodBankCircle,1,1.0,64,64
+accident,Central Zone 1,LowerAgaram(IndiaGarage)Junc,1,0.0,110,110
+accident,Central Zone 1,MotherTeressaCircle,1,0.0,84,84
+accident,Central Zone 1,OldMadrasRd-Indranagar100ftRdJunc,2,0.0,46,46
+accident,Central Zone 1,OldMadrasRd-SuddaguntepalyaRdJunc,1,0.0,79,79
+accident,Central Zone 1,OldPoliceStation-Ashoknagar,1,0.0,75,75
+accident,Central Zone 1,QueensStatueCircle,1,0.0,67,67
+accident,Central Zone 1,Unknown,3,0.0,61,72
+accident,Central Zone 2,BasaweshwaraCircle,1,0.0,108,108
+accident,Central Zone 2,Dr TCM RoyanRd near AmbedkarStatue,1,0.0,97,97
+accident,Central Zone 2,HudsonCircle,1,0.0,96,96
+accident,Central Zone 2,IndianExpressJunction,1,0.0,5,5
+accident,Central Zone 2,K R Circle,2,0.0,56,56
+accident,Central Zone 2,KarnatakaBhavanJunction,1,0.0,89,89
+accident,Central Zone 2,NationalCollege,1,0.0,57,57
+accident,Central Zone 2,PoliceTimmaiahCircle(GPO),1,0.0,68,68
+accident,Central Zone 2,RRR(Okalipuram)Junction,1,0.0,72,72
+accident,Central Zone 2,South end circle,1,0.0,18,18
+accident,Central Zone 2,UlsoorGateJunc,1,0.0,113,113
+accident,Central Zone 2,Unknown,3,0.0,77,85
+accident,Central Zone 2,WilsonGarden10thCrossJunc,1,0.0,345,345
+accident,Central Zone 2,toll gate mysore road,1,0.0,110,110
+accident,East Zone 1,IbblurJunction',2,0.0,222,222
+accident,East Zone 1,MaratahalliBridgeJunc,1,0.0,69,69
+accident,East Zone 1,Unknown,6,0.0,107,164
+accident,East Zone 2,Unknown,4,0.0,93,89
+accident,North Zone 1,Batrayanapura(Amrutahalli)Junction,2,0.0,61,61
+accident,North Zone 1,JakkurCrossJunction,3,0.0,17,31
+accident,North Zone 1,KodigehalliCross,1,0.0,132,132
+accident,North Zone 1,"Narayanapura cross, Hegde nagar",1,0.0,97,97
+accident,North Zone 1,RamamurthyNagarJunction,1,0.0,22,22
+accident,North Zone 1,Unknown,5,0.0,88,79
+accident,North Zone 1,"VeerannapalyaJunction(BEL,HO)",5,0.0,86,90
+accident,North Zone 1,YelhankaBypass,2,0.0,64,64
+accident,North Zone 2,BagalurCrossJunc,1,0.0,88,88
+accident,North Zone 2,BhadrappaLayout,1,0.0,52,52
+accident,North Zone 2,JalahalliCross(SM Circle),1,0.0,96,96
+accident,North Zone 2,KogilluCrossJunc,2,0.0,50,50
+accident,North Zone 2,SandeepUnnikrishnan-Yelhanka,1,0.0,85,85
+accident,North Zone 2,SantheCircle,1,0.0,112,112
+accident,North Zone 2,Unknown,11,0.0,70,74
+accident,North Zone 2,YelhankaCircle,3,0.0,32,41
+accident,South Zone 1,Unknown,58,0.0,258,241
+accident,South Zone 2,AdugodiJunc,1,0.0,2,2
+accident,South Zone 2,AgaraJunction,1,0.0,89,89
+accident,South Zone 2,ArakereGateJunc,1,0.0,106,106
+accident,South Zone 2,Bommanahalli,1,0.0,343,343
+accident,South Zone 2,GarebhavipalyaJunc,3,0.0,86,85
+accident,South Zone 2,IbblurJunction',3,0.0,37,45
+accident,South Zone 2,SilkBoardJunc,1,0.0,68,68
+accident,South Zone 2,Unknown,9,0.0,109,97
+accident,Unknown,A S CharStreet-MysoreRdJunc,1,0.0,66,66
+accident,Unknown,BinnyMillJunction,1,0.0,118,118
+accident,Unknown,ElectronicCityGate-2Junc,1,0.0,115,115
+accident,Unknown,HoramavuJunction,1,0.0,101,101
+accident,Unknown,HunsemarammanahalliJunction,2,0.0,15,15
+accident,Unknown,JakkurCrossJunction,2,0.0,95,95
+accident,Unknown,ShantalaJunction,4,0.0,130,129
+accident,Unknown,Unknown,160,0.06,82,87
+accident,Unknown,VeerasandraGateJunction,2,0.0,74,74
+accident,Unknown,YelhankaBypass,1,0.0,65,65
+accident,Unknown,YeshwanthpuraCircle,1,0.0,38,38
+accident,West Zone 1,Basveshwarnagar 8th main Junction,1,0.0,117,117
+accident,West Zone 1,Chokasandra (Tumkur road),1,0.0,76,76
+accident,West Zone 1,GokuldasImagesJunc,1,0.0,105,105
+accident,West Zone 1,GoruguntepalyaJunc,1,0.0,40,40
+accident,West Zone 1,HesaraghattaJunction,1,0.0,24,24
+accident,West Zone 1,JalahalliCross(SM Circle),1,0.0,37,37
+accident,West Zone 1,Nagarbhavi,1,0.0,65,65
+accident,West Zone 1,PeenyaPoliceStation,1,0.0,47,47
+accident,West Zone 1,RajeshwariJunc,1,0.0,119,119
+accident,West Zone 1,SRS Peenya Junc,3,0.33,50,50
+accident,West Zone 1,Unknown,10,0.0,99,85
+accident,West Zone 2,KIMCO Junction,1,0.0,209,209
+accident,West Zone 2,Malleswaram18thCrossRd-SampigeRdJunc,1,0.0,78,78
+accident,West Zone 2,PuttammaChoultryNagarbhavi,1,0.0,108,108
+accident,West Zone 2,SadashivnagarJunc,1,0.0,63,63
+accident,West Zone 2,Unknown,3,0.0,67,68
+congestion,Central Zone 1,BucheryJunction,1,0.0,169,169
+congestion,Central Zone 1,Unknown,1,0.0,2,2
+congestion,Central Zone 2,CID-CarltonHouseJunc,1,0.0,168,168
+congestion,Central Zone 2,Dr TCM RoyanRd near AmbedkarStatue,2,0.0,107,107
+congestion,Central Zone 2,"PriyadarshiniHotel,Jayamahal,RT Nagar",1,0.0,148,148
+congestion,East Zone 1,ESI(k r puram),1,0.0,175,175
+congestion,East Zone 1,Unknown,9,0.0,155,154
+congestion,East Zone 2,Unknown,1,0.0,177,177
+congestion,North Zone 1,BEL Circle,1,0.0,142,142
+congestion,North Zone 1,KalyanNagar-ORR Junc,1,1.0,122,122
+congestion,North Zone 1,Nagavara-ORR Junction,1,0.0,97,97
+congestion,North Zone 1,Unknown,1,0.0,130,130
+congestion,North Zone 2,Unknown,2,0.0,84,84
+congestion,South Zone 1,Arbindo Circle,2,1.0,94,94
+congestion,South Zone 2,Marigowda-TavarkereRdJunc,1,0.0,116,116
+congestion,Unknown,Unknown,106,0.03,152,143
+congestion,West Zone 1,Unknown,2,0.0,153,153
+congestion,West Zone 2,KIMCO Junction,1,0.0,65,65
+congestion,West Zone 2,MekhriCircle,1,0.0,132,132
+procession,Central Zone 1,BEML GateJunc(SuranjandasRd),1,1.0,60,60
+procession,Central Zone 1,SiddalingaiahCircle,1,1.0,480,480
+procession,Central Zone 2,HudsonCircle,1,1.0,150,150
+procession,Central Zone 2,K R Circle,1,1.0,150,150
+procession,Central Zone 2,KCG HospitalJunction,1,1.0,11,11
+procession,Central Zone 2,LeprosyhospitalJunc,4,0.75,93,78
+procession,Central Zone 2,Unknown,1,0.0,85,85
+procession,East Zone 1,Unknown,2,0.0,146,146
+procession,North Zone 1,Batrayanapura(Amrutahalli)Junction,1,1.0,122,122
+procession,North Zone 1,HennurRd-DavisRdJunction,1,0.0,1110,1110
+procession,North Zone 1,Unknown,5,0.2,105,90
+procession,North Zone 2,Unknown,7,0.14,129,124
+procession,South Zone 1,MarenahalliRd-18thMainRdJunc,1,0.0,24,24
+procession,South Zone 1,Unknown,1,0.0,156,156
+procession,South Zone 2,Bommanahalli,1,0.0,20,20
+procession,South Zone 2,Marigowda-TavarkereRdJunc,2,0.0,94,94
+procession,South Zone 2,Unknown,1,0.0,132,132
+procession,Unknown,Unknown,33,0.18,130,141
+procession,West Zone 1,Unknown,5,0.2,120,112
+procession,West Zone 2,Geethanjali jn,1,0.0,49,49
+procession,West Zone 2,KIMCO Junction,1,1.0,171,171
+protest,Central Zone 1,MotherTeressaCircle,1,0.0,31,31
+protest,Central Zone 2,IndianExpressJunction,1,1.0,4,4
+protest,Central Zone 2,PoliceCornerJunc,1,0.0,378,378
+protest,East Zone 1,Yemalur cross junc,1,0.0,8999,8999
+protest,Unknown,Richmond circle jn,1,0.0,37,37
+protest,Unknown,Unknown,9,0.56,373,235
+protest,West Zone 1,Unknown,1,0.0,397,397
+public_event,Central Zone 1,AnepalyaJunc,1,1.0,900,900
+public_event,Central Zone 1,DomlurWaterTank,1,1.0,35,35
+public_event,Central Zone 1,OldPoliceStation-Ashoknagar,1,0.0,18,18
+public_event,Central Zone 1,Unknown,1,1.0,51,51
+public_event,Central Zone 2,BinnyMillJunction,1,1.0,150,150
+public_event,Central Zone 2,KarnatakaBhavanJunction,1,1.0,480,480
+public_event,Central Zone 2,PurnimaTheaterJunc,1,0.0,2976,2976
+public_event,Central Zone 2,Unknown,2,0.5,568,568
+public_event,East Zone 1,Unknown,2,0.5,853,853
+public_event,North Zone 1,Unknown,2,0.0,112,112
+public_event,South Zone 1,BanashankariBusStandJunc,2,1.0,420,420
+public_event,South Zone 1,Unknown,1,1.0,300,300
+public_event,South Zone 2,Marigowda-TavarkereRdJunc,2,0.0,190,190
+public_event,South Zone 2,Unknown,2,0.5,7063,7063
+public_event,Unknown,HunsemarammanahalliJunction,1,0.0,190,190
+public_event,Unknown,KanakapuraRd-RingRdJunction,1,1.0,201,201
+public_event,Unknown,KrishnaFlourMill,1,1.0,9,9
+public_event,Unknown,Nagavara-ORR Junction,1,1.0,540,540
+public_event,Unknown,"PriyadarshiniHotel,Jayamahal,RT Nagar",1,1.0,240,240
+public_event,Unknown,QueensStatueCircle,2,0.0,1080,1080
+public_event,Unknown,SadahalliGateJunc(AirportRd),4,0.0,412,922
+public_event,Unknown,Unknown,39,0.51,690,3006
+public_event,West Zone 1,FTI Junction(KanteeravaStudio),1,0.0,34,34
+public_event,West Zone 1,Unknown,7,0.57,256,1213
+public_event,West Zone 2,RajajinagarEntranceJunction,1,0.0,14,14
+public_event,West Zone 2,Unknown,3,0.0,286,235
+public_event,West Zone 2,VijayanagarBusStandJunction,2,0.0,13,13
+tree_fall,Central Zone 1,BM ShriJunc(CMH-100FtRd)Junc,1,1.0,394,394
+tree_fall,Central Zone 1,BigBazaarJunction(OldMadrasRd),1,1.0,3,3
+tree_fall,Central Zone 2,BegumMahalJunc,1,0.0,1570,1570
+tree_fall,Central Zone 2,Richmond circle jn,1,0.0,42028,42028
+tree_fall,East Zone 1,Deverabeesanahalli-ORR Junc,1,0.0,78,78
+tree_fall,East Zone 1,Unknown,1,0.0,1,1
+tree_fall,North Zone 1,Unknown,1,1.0,6,6
+tree_fall,North Zone 2,SandeepUnnikrishnan-Yelhanka,1,1.0,5198,5198
+tree_fall,North Zone 2,Unknown,2,0.0,3,3
+tree_fall,South Zone 1,SwagathMainRd-EastEndRdJunc,1,1.0,10599,10599
+tree_fall,South Zone 2,BTM16thMain-ORR Junc,1,1.0,46069,46069
+tree_fall,South Zone 2,Unknown,1,0.0,63,63
+tree_fall,South Zone 2,WiproJunc-Koramangala,1,1.0,215,215
+tree_fall,Unknown,BrigadeMillenium,1,1.0,5,5
+tree_fall,Unknown,ChandrikaJunction,1,1.0,67,67
+tree_fall,Unknown,HosmatJunction,2,0.0,4,4
+tree_fall,Unknown,KarnatakaBhavanJunction,1,0.0,63,63
+tree_fall,Unknown,NagaTheaterJunc-Ulsoor,1,1.0,2292,2292
+tree_fall,Unknown,SiddapuraJunction,1,1.0,126,126
+tree_fall,Unknown,Unknown,255,0.38,63,3643
+tree_fall,Unknown,YeshwanthpuraCircle,1,0.0,24,24
+tree_fall,West Zone 1,Dr RajkumarRd-10thCrossRdJunc,1,1.0,203,203
+tree_fall,West Zone 1,Unknown,2,0.5,7876,7876
+tree_fall,West Zone 2,BasavamantapaJunc-Dr RajkumarRd,1,0.0,11608,11608
+tree_fall,West Zone 2,Unknown,2,0.0,163,163
+tree_fall,West Zone 2,YediyurMeternityHospital,1,1.0,53,53
+vehicle_breakdown,Central Zone 1,ASC Junction,3,0.0,127,99
+vehicle_breakdown,Central Zone 1,AgaraJunction,1,0.0,132,132
+vehicle_breakdown,Central Zone 1,AnepalyaJunc,2,0.5,119,119
+vehicle_breakdown,Central Zone 1,AnilKumbleCircle,5,0.0,134,125
+vehicle_breakdown,Central Zone 1,AnjaneyaTempleJunc,3,0.0,170,159
+vehicle_breakdown,Central Zone 1,Arts&CraftsCircle,2,0.0,80,80
+vehicle_breakdown,Central Zone 1,AshirwadamCircle,4,0.0,136,136
+vehicle_breakdown,Central Zone 1,Ashoknagar Junction(ShoolayCircle),6,0.33,128,109
+vehicle_breakdown,Central Zone 1,BEML GateJunc(SuranjandasRd),1,0.0,3,3
+vehicle_breakdown,Central Zone 1,BM ShriJunc(CMH-100FtRd)Junc,2,0.5,107,107
+vehicle_breakdown,Central Zone 1,BMTCJunction-K H Road,5,0.2,105,80
+vehicle_breakdown,Central Zone 1,BigBazaarJunction(OldMadrasRd),20,0.0,161,155
+vehicle_breakdown,Central Zone 1,BloodBankCircle,2,0.0,149,149
+vehicle_breakdown,Central Zone 1,BucheryJunction,3,0.0,169,162
+vehicle_breakdown,Central Zone 1,CMP GateJunc,7,0.29,148,140
+vehicle_breakdown,Central Zone 1,CashPharmacyJunction,3,0.0,125,383
+vehicle_breakdown,Central Zone 1,CommandoHospitalJunc,6,0.0,125,102
+vehicle_breakdown,Central Zone 1,D'SouzaCircle,1,0.0,166,166
+vehicle_breakdown,Central Zone 1,DomlurWaterTank,6,0.0,131,117
+vehicle_breakdown,Central Zone 1,HosmatJunction,1,0.0,150,150
+vehicle_breakdown,Central Zone 1,ISRO Junction-Airport rd,5,0.0,149,129
+vehicle_breakdown,Central Zone 1,Indiranasgar13thMainJunc,1,0.0,167,167
+vehicle_breakdown,Central Zone 1,JohnsonMarket,1,0.0,70,70
+vehicle_breakdown,Central Zone 1,KamrajRdJunction,2,0.0,143,143
+vehicle_breakdown,Central Zone 1,KensingtonOvalJunc,1,0.0,150,150
+vehicle_breakdown,Central Zone 1,LowerAgaram(IndiaGarage)Junc,1,0.0,23,23
+vehicle_breakdown,Central Zone 1,MayohallJunction,2,0.0,108,108
+vehicle_breakdown,Central Zone 1,MotherTeressaCircle,6,0.0,99,90
+vehicle_breakdown,Central Zone 1,OldMadrasRd-80FeetRdJunc,7,0.14,152,155
+vehicle_breakdown,Central Zone 1,OldMadrasRd-BMTC DepotJunc,1,0.0,20,20
+vehicle_breakdown,Central Zone 1,OldMadrasRd-DoubleRdJunc,3,0.0,11,11
+vehicle_breakdown,Central Zone 1,OldMadrasRd-Indranagar100ftRdJunc,7,0.0,30,59
+vehicle_breakdown,Central Zone 1,OldMadrasRd-NGEF Junc,7,0.14,134,132
+vehicle_breakdown,Central Zone 1,OldMadrasRd-SuddaguntepalyaRdJunc,2,0.0,156,156
+vehicle_breakdown,Central Zone 1,OldPoliceStation-Ashoknagar,2,0.0,31,31
+vehicle_breakdown,Central Zone 1,OperaHouseJunc,3,0.0,135,120
+vehicle_breakdown,Central Zone 1,QueensStatueCircle,2,0.0,105,105
+vehicle_breakdown,Central Zone 1,RamaiahCircle-UlsoorPoliceStation,3,0.0,53,82
+vehicle_breakdown,Central Zone 1,RamamurthyNagarJunction,1,0.0,152,152
+vehicle_breakdown,Central Zone 1,Richmond circle jn,4,0.75,99,101
+vehicle_breakdown,Central Zone 1,Shivajinagar(BRV)Junction,2,0.0,155,155
+vehicle_breakdown,Central Zone 1,SiddalingaiahCircle,3,0.0,122,112
+vehicle_breakdown,Central Zone 1,SindhiColonyJunction,1,0.0,150,150
+vehicle_breakdown,Central Zone 1,TamarikannanJunc,1,0.0,159,159
+vehicle_breakdown,Central Zone 1,TrinityCircle,7,0.0,140,113
+vehicle_breakdown,Central Zone 1,Unknown,21,0.1,134,108
+vehicle_breakdown,Central Zone 1,WebbsCircle,1,0.0,132,132
+vehicle_breakdown,Central Zone 2,A S CharStreet-MysoreRdJunc,2,0.0,31,31
+vehicle_breakdown,Central Zone 2,AnandRaoJunction,7,0.0,136,114
+vehicle_breakdown,Central Zone 2,BMTCJunction-K H Road,5,0.2,105,92
+vehicle_breakdown,Central Zone 2,BangaloreBodyBuildersJunc,14,0.0,98,89
+vehicle_breakdown,Central Zone 2,Basappa Circle Junction,2,0.0,99,99
+vehicle_breakdown,Central Zone 2,BasaweshwaraCircle,4,0.0,146,118
+vehicle_breakdown,Central Zone 2,BegumMahalJunc,2,0.0,108,108
+vehicle_breakdown,Central Zone 2,BinnyMillJunction,2,0.5,99,99
+vehicle_breakdown,Central Zone 2,BiryandCircle,4,0.0,149,122
+vehicle_breakdown,Central Zone 2,BloodBankCircle,6,0.0,90,94
+vehicle_breakdown,Central Zone 2,CID-CarltonHouseJunc,5,0.0,133,142
+vehicle_breakdown,Central Zone 2,ChandrikaJunction,1,0.0,23,23
+vehicle_breakdown,Central Zone 2,ChaudrayaCircle/UdayaTVCircle(CantonmentJunc),4,0.0,140,120
+vehicle_breakdown,Central Zone 2,CoffeeBoardJunc,3,0.0,90,98
+vehicle_breakdown,Central Zone 2,DairyCircle,1,0.0,21,21
+vehicle_breakdown,Central Zone 2,DevangaHostelJunction,3,0.0,140,102
+vehicle_breakdown,Central Zone 2,Dr TCM RoyanRd near AmbedkarStatue,7,0.0,125,1734
+vehicle_breakdown,Central Zone 2,EliteJunc,2,0.0,73,73
+vehicle_breakdown,Central Zone 2,GopalGowdaJUnc,3,0.0,171,137
+vehicle_breakdown,Central Zone 2,HainsJunc,1,0.0,151,151
+vehicle_breakdown,Central Zone 2,HalliThindi,3,0.0,98,118
+vehicle_breakdown,Central Zone 2,HudsonCircle,10,0.1,143,131
+vehicle_breakdown,Central Zone 2,IndianExpressJunction,8,0.0,132,117
+vehicle_breakdown,Central Zone 2,K H Road-SiddaiahRdJunc(BMTC-BigBazaar),1,0.0,67,67
+vehicle_breakdown,Central Zone 2,K R Circle,14,0.29,124,104
+vehicle_breakdown,Central Zone 2,K R MarketJunction,5,0.4,72,69
+vehicle_breakdown,Central Zone 2,KarnatakaBhavanJunction,6,0.0,130,122
+vehicle_breakdown,Central Zone 2,KhodaysCircle(DV UrsCircle),15,0.0,135,125
+vehicle_breakdown,Central Zone 2,KrishnaFlourMill,13,0.15,138,128
+vehicle_breakdown,Central Zone 2,LRDE Junction,8,0.0,145,123
+vehicle_breakdown,Central Zone 2,LalbaghMainGateJunc,4,0.0,129,111
+vehicle_breakdown,Central Zone 2,LalbaghWestGate,1,0.0,178,178
+vehicle_breakdown,Central Zone 2,LeprosyhospitalJunc,12,0.0,68,82
+vehicle_breakdown,Central Zone 2,LinkRoadMalleswaramJunc,3,0.0,31,31
+vehicle_breakdown,Central Zone 2,MICO Bande,2,0.0,177,177
+vehicle_breakdown,Central Zone 2,ManipalCentreJunc,2,0.0,107,107
+vehicle_breakdown,Central Zone 2,MillCornerRd-SampigeRdJunc,7,0.0,132,140
+vehicle_breakdown,Central Zone 2,Minerva Circle,2,0.0,87,87
+vehicle_breakdown,Central Zone 2,MinskSquare(CTO Junction),5,0.0,144,145
+vehicle_breakdown,Central Zone 2,MintoJunction,4,0.0,111,106
+vehicle_breakdown,Central Zone 2,N R SquareJunc,10,0.1,92,89
+vehicle_breakdown,Central Zone 2,NIMHANS Junction,1,0.0,177,177
+vehicle_breakdown,Central Zone 2,PlatformRdJunction,5,0.2,145,121
+vehicle_breakdown,Central Zone 2,PoliceCornerJunc,22,0.14,51,79
+vehicle_breakdown,Central Zone 2,PoliceTimmaiahCircle(GPO),8,0.0,85,87
+vehicle_breakdown,Central Zone 2,PrasannaJunction,1,0.0,166,166
+vehicle_breakdown,Central Zone 2,"PriyadarshiniHotel,Jayamahal,RT Nagar",2,0.0,134,134
+vehicle_breakdown,Central Zone 2,PurnimaTheaterJunc,7,0.0,165,162
+vehicle_breakdown,Central Zone 2,QueensStatueCircle,1,0.0,199,199
+vehicle_breakdown,Central Zone 2,RRR(Okalipuram)Junction,3,0.0,134,125
+vehicle_breakdown,Central Zone 2,RamaiahCircle-UlsoorPoliceStation,5,0.0,171,2452
+vehicle_breakdown,Central Zone 2,Richmond circle jn,3,0.0,16,59
+vehicle_breakdown,Central Zone 2,RoyanCircle-Chamrajpete,1,0.0,12,12
+vehicle_breakdown,Central Zone 2,SagarHospitalJunc,3,0.0,156,156
+vehicle_breakdown,Central Zone 2,SagarTheatreJunc,3,0.33,64,214
+vehicle_breakdown,Central Zone 2,ShantalaJunction,7,0.0,91,86
+vehicle_breakdown,Central Zone 2,ShivajiTalkiesJunc,6,0.0,123,111
+vehicle_breakdown,Central Zone 2,Shivajinagar(BRV)Junction,8,0.0,116,92
+vehicle_breakdown,Central Zone 2,ShivandaCircle,11,0.0,70,95
+vehicle_breakdown,Central Zone 2,Shivashankara circle,4,0.0,126,123
+vehicle_breakdown,Central Zone 2,SiddalingaiahCircle,6,0.0,35,62
+vehicle_breakdown,Central Zone 2,SiddapuraJunction,3,0.33,151,143
+vehicle_breakdown,Central Zone 2,SirsiCircle,7,0.0,33,46
+vehicle_breakdown,Central Zone 2,South end circle,2,0.0,126,126
+vehicle_breakdown,Central Zone 2,StateBankofMysoreJunc,10,0.0,51,95
+vehicle_breakdown,Central Zone 2,SubbannaJunction,2,0.0,147,147
+vehicle_breakdown,Central Zone 2,SubedarChatramRd near SheshadripuramPS,3,0.0,49,67
+vehicle_breakdown,Central Zone 2,ThomasCafe-New,1,0.0,147,147
+vehicle_breakdown,Central Zone 2,TownhallJunction,27,0.07,135,115
+vehicle_breakdown,Central Zone 2,TyagiHengalvarayaJunc(DickensonRd),2,0.0,100,100
+vehicle_breakdown,Central Zone 2,UlsoorGateJunc,9,0.11,120,97
+vehicle_breakdown,Central Zone 2,Unknown,38,0.0,134,117
+vehicle_breakdown,Central Zone 2,UrvashiJunction,4,0.0,48,68
+vehicle_breakdown,Central Zone 2,VetenaryHospitalJunc-Shivajinagar,3,0.0,171,170
+vehicle_breakdown,Central Zone 2,WebbsCircle,1,0.0,128,128
+vehicle_breakdown,Central Zone 2,WilsonGarden10thCrossJunc,4,0.0,108,101
+vehicle_breakdown,Central Zone 2,WilsonGarden12thCrossJunc,6,0.17,104,102
+vehicle_breakdown,Central Zone 2,toll gate mysore road,23,0.04,137,122
+vehicle_breakdown,East Zone 1,"Bellandur Junction, Outer ring road",2,0.0,98,98
+vehicle_breakdown,East Zone 1,BigBazaar(Whitefield)Junc,7,0.14,127,124
+vehicle_breakdown,East Zone 1,Deverabeesanahalli-ORR Junc,11,0.09,139,125
+vehicle_breakdown,East Zone 1,HoodiJunction,3,0.67,128,108
+vehicle_breakdown,East Zone 1,HopefarmJunction,7,0.0,149,136
+vehicle_breakdown,East Zone 1,IbblurJunction',3,0.0,128,140
+vehicle_breakdown,East Zone 1,Kadubeesanahalli-ORR Junc,10,0.0,78,87
+vehicle_breakdown,East Zone 1,KundanahalliGateJunc,8,0.12,124,106
+vehicle_breakdown,East Zone 1,MaratahalliBridgeJunc,10,0.1,138,119
+vehicle_breakdown,East Zone 1,Unknown,71,0.04,121,97
+vehicle_breakdown,East Zone 2,Devasandra(k r puram),21,0.14,127,104
+vehicle_breakdown,East Zone 2,HennurRoad-ORR Junc,1,0.0,175,175
+vehicle_breakdown,East Zone 2,HoramavuJunction,2,0.0,148,148
+vehicle_breakdown,East Zone 2,KalyanNagar-ORR Junc,3,0.0,146,113
+vehicle_breakdown,East Zone 2,Kammanahalli-RingRoadJunction,1,0.0,146,146
+vehicle_breakdown,East Zone 2,"KuvempuCircleJunc,HAL MainGate",1,0.0,59,59
+vehicle_breakdown,East Zone 2,RamamurthyNagarJunction,4,0.0,50,62
+vehicle_breakdown,East Zone 2,TC Palya-OM RoadJunc,3,0.33,154,114
+vehicle_breakdown,East Zone 2,Unknown,84,0.11,126,132
+vehicle_breakdown,North Zone 1,BEL Circle,6,0.0,123,100
+vehicle_breakdown,North Zone 1,Batrayanapura(Amrutahalli)Junction,7,0.0,129,139
+vehicle_breakdown,North Zone 1,GangammagudiJunc,3,0.0,31,55
+vehicle_breakdown,North Zone 1,GovindapuraCross,1,0.0,136,136
+vehicle_breakdown,North Zone 1,HainsJunc,4,0.0,104,108
+vehicle_breakdown,North Zone 1,HebbalFlyoverJunc,7,0.0,138,114
+vehicle_breakdown,North Zone 1,HennurRd-DavisRdJunction,1,0.0,155,155
+vehicle_breakdown,North Zone 1,HennurRoad-ORR Junc,13,0.0,122,112
+vehicle_breakdown,North Zone 1,HoramavuJunction,2,0.0,56,56
+vehicle_breakdown,North Zone 1,JakkurCrossJunction,10,0.1,145,142
+vehicle_breakdown,North Zone 1,KalyanNagar-ORR Junc,2,0.0,160,160
+vehicle_breakdown,North Zone 1,Kammanahalli-RingRoadJunction,2,0.0,56,56
+vehicle_breakdown,North Zone 1,KodigehalliCross,8,0.0,167,163
+vehicle_breakdown,North Zone 1,KuvempuCircle,2,0.0,128,128
+vehicle_breakdown,North Zone 1,Nagavara-ORR Junction,13,0.0,153,137
+vehicle_breakdown,North Zone 1,"Narayanapura cross, Hegde nagar",2,0.0,142,142
+vehicle_breakdown,North Zone 1,PotteryCircle,3,0.33,162,147
+vehicle_breakdown,North Zone 1,RamamurthyNagarJunction,1,0.0,109,109
+vehicle_breakdown,North Zone 1,SindhiColonyJunction,2,0.0,58,58
+vehicle_breakdown,North Zone 1,Unknown,64,0.09,126,355
+vehicle_breakdown,North Zone 1,"VeerannapalyaJunction(BEL,HO)",6,0.0,145,151
+vehicle_breakdown,North Zone 1,YelhankaBypass,13,0.08,143,238
+vehicle_breakdown,North Zone 2,BEL Circle,9,0.11,137,117
+vehicle_breakdown,North Zone 2,BagalurCrossJunc,16,0.06,126,101
+vehicle_breakdown,North Zone 2,CIL CrossJunction-JayamahalRd,3,0.0,172,1086
+vehicle_breakdown,North Zone 2,Chokasandra (Tumkur road),3,0.0,148,145
+vehicle_breakdown,North Zone 2,GangammagudiJunc,2,0.0,93,93
+vehicle_breakdown,North Zone 2,HebbalFlyoverJunc,5,0.0,25,77
+vehicle_breakdown,North Zone 2,HesaraghattaJunction,14,0.07,146,131
+vehicle_breakdown,North Zone 2,JalahalliCross(SM Circle),11,0.0,156,150
+vehicle_breakdown,North Zone 2,KogilluCrossJunc,9,0.0,112,113
+vehicle_breakdown,North Zone 2,MSRamaiahHospitalJunc,1,0.0,149,149
+vehicle_breakdown,North Zone 2,MekhriCircle,17,0.0,158,131
+vehicle_breakdown,North Zone 2,SandeepUnnikrishnan-Yelhanka,6,0.0,98,92
+vehicle_breakdown,North Zone 2,SantheCircle,16,0.06,137,127
+vehicle_breakdown,North Zone 2,Unknown,162,0.02,130,124
+vehicle_breakdown,North Zone 2,YelhankaBypass,1,0.0,97,97
+vehicle_breakdown,North Zone 2,YelhankaCircle,20,0.0,102,89
+vehicle_breakdown,South Zone 1,27th Cross Jayanagar(Ganapathi Temple),1,0.0,119,119
+vehicle_breakdown,South Zone 1,Arbindo Circle,5,0.2,144,114
+vehicle_breakdown,South Zone 1,BanashankariBusStandJunc,4,0.0,157,153
+vehicle_breakdown,South Zone 1,Delmia-Jayanagar,1,0.0,164,164
+vehicle_breakdown,South Zone 1,DevegowdaPetrolBunkJunc,2,0.0,111,111
+vehicle_breakdown,South Zone 1,GowdanapalyaJunction,1,0.0,19,19
+vehicle_breakdown,South Zone 1,J D MaraJunc,1,0.0,141,141
+vehicle_breakdown,South Zone 1,JP Nagar 15th cross junction,1,0.0,21,21
+vehicle_breakdown,South Zone 1,JP Nagar 9th cross-24th main jn,4,0.25,124,134
+vehicle_breakdown,South Zone 1,JayadevaHospitalJunc,3,0.0,163,156
+vehicle_breakdown,South Zone 1,"Jayanagar 4th main,36th cross",1,0.0,56,56
+vehicle_breakdown,South Zone 1,KadirenahalliJunction,3,0.0,106,75
+vehicle_breakdown,South Zone 1,KanakapuraRd-RingRdJunction,3,0.0,130,92
+vehicle_breakdown,South Zone 1,KonanakunteJunction(KanakapurarRd),4,0.0,143,123
+vehicle_breakdown,South Zone 1,MarenahalliRd-18thMainRdJunc,1,0.0,20,20
+vehicle_breakdown,South Zone 1,MeenakshiMallJunc,1,0.0,152,152
+vehicle_breakdown,South Zone 1,NaganathapuraJunction,2,0.0,35,35
+vehicle_breakdown,South Zone 1,SagarHospitalJunc,1,0.0,136,136
+vehicle_breakdown,South Zone 1,Unknown,27,0.04,80,92
+vehicle_breakdown,South Zone 1,UttarahalliJunction,5,0.0,132,210
+vehicle_breakdown,South Zone 2,17th Mn 1st Crs Aishwarya Stores Jn,1,0.0,56,56
+vehicle_breakdown,South Zone 2,29thMainRdBTM LayoutJunc,2,0.0,64,64
+vehicle_breakdown,South Zone 2,5thMainHSR,1,0.0,187,187
+vehicle_breakdown,South Zone 2,AgaraJunction,1,1.0,172,172
+vehicle_breakdown,South Zone 2,ArakereGateJunc,4,0.0,147,143
+vehicle_breakdown,South Zone 2,AyyappaTempleJunc,10,0.0,82,83
+vehicle_breakdown,South Zone 2,BTM16thMain-ORR Junc,2,0.0,24,24
+vehicle_breakdown,South Zone 2,BilekahalliJunc,9,0.0,124,111
+vehicle_breakdown,South Zone 2,Bommanahalli,12,0.0,140,117
+vehicle_breakdown,South Zone 2,DairyCircle,3,0.0,139,120
+vehicle_breakdown,South Zone 2,GarebhavipalyaJunc,2,0.0,96,96
+vehicle_breakdown,South Zone 2,HSR14thMainJunc,3,0.0,82,96
+vehicle_breakdown,South Zone 2,HulimaveRd-BanneraghattaRdJunc,3,0.0,131,111
+vehicle_breakdown,South Zone 2,IbblurJunction',1,0.0,121,121
+vehicle_breakdown,South Zone 2,J D MaraJunc,2,0.0,166,166
+vehicle_breakdown,South Zone 2,Jaipuria-Adugodi,3,0.0,139,104
+vehicle_breakdown,South Zone 2,JayadevaHospitalJunc,3,0.0,72,73
+vehicle_breakdown,South Zone 2,KanakapuraRd-RingRdJunction,5,0.0,163,127
+vehicle_breakdown,South Zone 2,KoramangalaWaterTankJunc,6,0.0,143,132
+vehicle_breakdown,South Zone 2,Krupanidhi College,3,0.33,123,113
+vehicle_breakdown,South Zone 2,Kudlu Gate Junc,4,0.0,122,115
+vehicle_breakdown,South Zone 2,MICO Bande,2,0.0,34,34
+vehicle_breakdown,South Zone 2,MaharajaJunction,2,0.5,87,87
+vehicle_breakdown,South Zone 2,Marigowda-TavarkereRdJunc,5,0.0,65,89
+vehicle_breakdown,South Zone 2,MeenakshiMallJunc,4,0.0,153,153
+vehicle_breakdown,South Zone 2,NIMHANS Junction,4,0.25,132,119
+vehicle_breakdown,South Zone 2,NaganathapuraJunction,6,0.17,106,96
+vehicle_breakdown,South Zone 2,SagarHospitalJunc,1,0.0,149,149
+vehicle_breakdown,South Zone 2,SarjapurRd-St JohnsRdJunc,2,0.0,162,162
+vehicle_breakdown,South Zone 2,SilkBoardJunc,16,0.0,159,127
+vehicle_breakdown,South Zone 2,SonyworldJunction,3,0.0,158,125
+vehicle_breakdown,South Zone 2,UCO Bank(Forum),2,0.0,144,144
+vehicle_breakdown,South Zone 2,Unknown,33,0.03,140,132
+vehicle_breakdown,South Zone 2,WilsonGarden12thCrossJunc,1,0.0,174,174
+vehicle_breakdown,Unknown,AnilKumbleCircle,2,0.0,77,77
+vehicle_breakdown,Unknown,Arbindo Circle,1,0.0,16,16
+vehicle_breakdown,Unknown,AyyappaTempleJunc,1,0.0,63,63
+vehicle_breakdown,Unknown,BEL Circle,1,0.0,25,25
+vehicle_breakdown,Unknown,BTM16thMain-ORR Junc,1,0.0,164,164
+vehicle_breakdown,Unknown,BagalurCrossJunc,2,0.0,72,72
+vehicle_breakdown,Unknown,BanashankariBusStandJunc,1,0.0,161,161
+vehicle_breakdown,Unknown,BangaloreBodyBuildersJunc,3,0.0,20,21
+vehicle_breakdown,Unknown,Basappa Circle Junction,1,0.0,144,144
+vehicle_breakdown,Unknown,Batrayanapura(Amrutahalli)Junction,2,0.0,168,168
+vehicle_breakdown,Unknown,BegumMahalJunc,1,0.0,123,123
+vehicle_breakdown,Unknown,BigBazaarJunction(OldMadrasRd),2,0.0,133,133
+vehicle_breakdown,Unknown,BilekahalliJunc,1,0.0,126,126
+vehicle_breakdown,Unknown,BinnyMillJunction,1,0.0,49,49
+vehicle_breakdown,Unknown,BloodBankCircle,1,1.0,117,117
+vehicle_breakdown,Unknown,Bommanahalli,4,0.0,137,115
+vehicle_breakdown,Unknown,CID-CarltonHouseJunc,2,0.0,104,104
+vehicle_breakdown,Unknown,CMP GateJunc,1,0.0,10,10
+vehicle_breakdown,Unknown,D'SouzaCircle,1,0.0,81,81
+vehicle_breakdown,Unknown,Devanahalli new bus stand,1,0.0,170,170
+vehicle_breakdown,Unknown,DevanahalliCrossJunc,2,0.0,138,138
+vehicle_breakdown,Unknown,DevangaHostelJunction,1,0.0,143,143
+vehicle_breakdown,Unknown,Devasandra(k r puram),1,0.0,157,157
+vehicle_breakdown,Unknown,Deverabeesanahalli-ORR Junc,2,0.0,75,75
+vehicle_breakdown,Unknown,DoddaballapuraCrossJunc,1,0.0,172,172
+vehicle_breakdown,Unknown,DomlurWaterTank,3,0.33,33,47
+vehicle_breakdown,Unknown,ElectronicCityGate-2Junc,5,0.0,60,65
+vehicle_breakdown,Unknown,EliteJunc,1,0.0,34,34
+vehicle_breakdown,Unknown,GangammagudiJunc,1,0.0,63,63
+vehicle_breakdown,Unknown,Geeta Circle,1,0.0,70,70
+vehicle_breakdown,Unknown,GokuldasImagesJunc,2,0.0,90,90
+vehicle_breakdown,Unknown,GoruguntepalyaJunc,2,0.5,127,127
+vehicle_breakdown,Unknown,HebbalFlyoverJunc,1,1.0,128,128
+vehicle_breakdown,Unknown,HennurRoad-ORR Junc,2,0.0,174,174
+vehicle_breakdown,Unknown,HesaraghattaJunction,5,0.0,152,107
+vehicle_breakdown,Unknown,HopefarmJunction,1,0.0,167,167
+vehicle_breakdown,Unknown,HudsonCircle,1,0.0,12,12
+vehicle_breakdown,Unknown,HunsemarammanahalliJunction,3,0.0,170,379
+vehicle_breakdown,Unknown,ISRO Junction-Airport rd,1,0.0,142,142
+vehicle_breakdown,Unknown,IndianExpressJunction,2,0.0,114,114
+vehicle_breakdown,Unknown,JP Nagar 15th cross junction,2,0.0,87,87
+vehicle_breakdown,Unknown,JP Nagar 9th cross-24th main jn,1,0.0,197,197
+vehicle_breakdown,Unknown,JakkurCrossJunction,2,0.0,178,178
+vehicle_breakdown,Unknown,JalahalliCross(SM Circle),3,0.0,51,74
+vehicle_breakdown,Unknown,JayadevaHospitalJunc,2,0.0,124,124
+vehicle_breakdown,Unknown,K H Road-SiddaiahRdJunc(BMTC-BigBazaar),3,0.33,41,77
+vehicle_breakdown,Unknown,K R Circle,3,0.67,132,102
+vehicle_breakdown,Unknown,KIMCO Junction,5,0.0,34,47
+vehicle_breakdown,Unknown,KR Road-14thCross Junc,1,0.0,124,124
+vehicle_breakdown,Unknown,KadirenahalliJunction,1,0.0,505,505
+vehicle_breakdown,Unknown,KhodaysCircle(DV UrsCircle),3,0.0,122,94
+vehicle_breakdown,Unknown,KodigehalliCross,1,0.0,133,133
+vehicle_breakdown,Unknown,KogilluCrossJunc,1,0.0,161,161
+vehicle_breakdown,Unknown,KonanakunteJunction(KanakapurarRd),2,0.0,75,75
+vehicle_breakdown,Unknown,KrishnaFlourMill,3,0.33,77,73
+vehicle_breakdown,Unknown,LalbaghMainGateJunc,1,0.0,39,39
+vehicle_breakdown,Unknown,LeprosyhospitalJunc,3,0.0,166,165
+vehicle_breakdown,Unknown,MC Circle,1,0.0,142,142
+vehicle_breakdown,Unknown,MICO Bande,1,0.0,36,36
+vehicle_breakdown,Unknown,Marigowda-TavarkereRdJunc,1,0.0,122,122
+vehicle_breakdown,Unknown,MeenakshiMallJunc,2,0.0,123,123
+vehicle_breakdown,Unknown,MekhriCircle,5,0.0,153,135
+vehicle_breakdown,Unknown,MillCornerRd-SampigeRdJunc,2,0.0,148,148
+vehicle_breakdown,Unknown,MotherTeressaCircle,3,0.0,154,128
+vehicle_breakdown,Unknown,MysoreRd-RingRdJunc(Nayandanahallii),1,0.0,135,135
+vehicle_breakdown,Unknown,NGV RearGateJunc,1,0.0,81,81
+vehicle_breakdown,Unknown,NIMHANS Junction,1,0.0,170,170
+vehicle_breakdown,Unknown,NaganathapuraJunction,3,0.0,55,74
+vehicle_breakdown,Unknown,Nagavara-ORR Junction,3,0.0,139,145
+vehicle_breakdown,Unknown,NandiCross(RaniCross),3,0.0,107,173
+vehicle_breakdown,Unknown,OldMadrasRd-80FeetRdJunc,1,0.0,123,123
+vehicle_breakdown,Unknown,OldMadrasRd-NGEF Junc,1,0.0,38,38
+vehicle_breakdown,Unknown,PoliceCornerJunc,2,0.5,84,84
+vehicle_breakdown,Unknown,PotteryCircle,1,0.0,47,47
+vehicle_breakdown,Unknown,PrasannaJunction,1,0.0,44,44
+vehicle_breakdown,Unknown,"PriyadarshiniHotel,Jayamahal,RT Nagar",1,0.0,126,126
+vehicle_breakdown,Unknown,RRR(Okalipuram)Junction,1,0.0,14,14
+vehicle_breakdown,Unknown,Rajajinagar19thMainJunc,3,0.0,167,154
+vehicle_breakdown,Unknown,RajeshwariJunc,1,0.0,166,166
+vehicle_breakdown,Unknown,RamaiahCircle-UlsoorPoliceStation,1,0.0,122,122
+vehicle_breakdown,Unknown,Richmond circle jn,2,0.5,112,112
+vehicle_breakdown,Unknown,SRS Peenya Junc,2,0.0,37,37
+vehicle_breakdown,Unknown,SadahalliGateJunc(AirportRd),2,0.0,131,131
+vehicle_breakdown,Unknown,SadashivnagarJunc,1,0.0,10,10
+vehicle_breakdown,Unknown,SafinaPlazaJunc,1,0.0,65,65
+vehicle_breakdown,Unknown,SagarTheatreJunc,1,0.0,53,53
+vehicle_breakdown,Unknown,SantheCircle,1,0.0,23,23
+vehicle_breakdown,Unknown,SarjapurRd-St JohnsRdJunc,1,0.0,158,158
+vehicle_breakdown,Unknown,SatteliteBusStandJunc,4,0.0,70,77
+vehicle_breakdown,Unknown,ShivandaCircle,1,0.0,14,14
+vehicle_breakdown,Unknown,SiddapuraJunction,1,0.0,169,169
+vehicle_breakdown,Unknown,SilkBoardJunc,4,0.0,134,108
+vehicle_breakdown,Unknown,Srigandakaval,2,0.0,70,70
+vehicle_breakdown,Unknown,Srinivagilu(Ejipura)Junc,1,0.0,17,17
+vehicle_breakdown,Unknown,Sumanhalli,2,0.0,155,155
+vehicle_breakdown,Unknown,SwagathMainRd-EastEndRdJunc,1,0.0,31,31
+vehicle_breakdown,Unknown,TownhallJunction,2,0.0,114,114
+vehicle_breakdown,Unknown,"Trilight Circle,Race course Road",1,1.0,63,63
+vehicle_breakdown,Unknown,UlsoorGateJunc,1,0.0,101,101
+vehicle_breakdown,Unknown,Unknown,2506,0.04,133,207
+vehicle_breakdown,Unknown,VeerasandraGateJunction,9,0.0,167,7473
+vehicle_breakdown,Unknown,VijayanagarBusStandJunction,1,0.0,1302,1302
+vehicle_breakdown,Unknown,YelhankaBypass,1,0.0,124,124
+vehicle_breakdown,Unknown,YelhankaCircle,1,0.0,21,21
+vehicle_breakdown,Unknown,YeshwanthpuraCircle,6,0.0,92,89
+vehicle_breakdown,Unknown,toll gate mysore road,2,0.5,155,155
+vehicle_breakdown,West Zone 1,Chokasandra (Tumkur road),7,0.0,138,119
+vehicle_breakdown,West Zone 1,Dr RajkumarRd-10thCrossRdJunc,3,0.0,126,115
+vehicle_breakdown,West Zone 1,FTI Junction(KanteeravaStudio),7,0.14,127,108
+vehicle_breakdown,West Zone 1,GokuldasImagesJunc,25,0.0,125,104
+vehicle_breakdown,West Zone 1,GoruguntepalyaJunc,17,0.0,90,94
+vehicle_breakdown,West Zone 1,HesaraghattaJunction,8,0.0,45,56
+vehicle_breakdown,West Zone 1,ItmaduJunction,1,0.0,89,89
+vehicle_breakdown,West Zone 1,JalahalliCross(SM Circle),15,0.0,73,84
+vehicle_breakdown,West Zone 1,KatriguppeJunction,4,0.0,48,68
+vehicle_breakdown,West Zone 1,MahalaxmiLayoutEntranceJunc,2,0.0,162,162
+vehicle_breakdown,West Zone 1,MysoreRd--MadhuPetrolBunkJunction,1,0.0,143,143
+vehicle_breakdown,West Zone 1,MysoreRd-RingRdJunc(Nayandanahallii),7,0.0,122,102
+vehicle_breakdown,West Zone 1,NTTF JunctionPeenya,2,0.0,114,114
+vehicle_breakdown,West Zone 1,Nagarbhavi,5,0.0,137,128
+vehicle_breakdown,West Zone 1,NavarangTheatreJunction,2,0.0,133,133
+vehicle_breakdown,West Zone 1,PES-DevegowdaCircle,3,0.0,151,480
+vehicle_breakdown,West Zone 1,Peenya14thCrossJunc,1,0.0,48436,48436
+vehicle_breakdown,West Zone 1,Peenya2ndStageBusStand,1,1.0,122,122
+vehicle_breakdown,West Zone 1,PeenyaPoliceStation,10,0.0,95,95
+vehicle_breakdown,West Zone 1,Rajajinagagr1stBlockJunction,2,0.0,137,137
+vehicle_breakdown,West Zone 1,Rajajinagar19thMainJunc,1,0.0,167,167
+vehicle_breakdown,West Zone 1,RajeshwariJunc,18,0.22,132,116
+vehicle_breakdown,West Zone 1,Ring road-Near Kengunte Junction,7,0.0,127,116
+vehicle_breakdown,West Zone 1,RingRoad-UllalJunction,5,0.2,53,78
+vehicle_breakdown,West Zone 1,SRS Peenya Junc,13,0.0,35,81
+vehicle_breakdown,West Zone 1,Srigandakaval,8,0.0,124,120
+vehicle_breakdown,West Zone 1,Sumanhalli,9,0.11,112,99
+vehicle_breakdown,West Zone 1,TVS CrossJunction,1,0.0,75,75
+vehicle_breakdown,West Zone 1,TumkurRdMarappanapalyaJunc,12,0.0,46,90
+vehicle_breakdown,West Zone 1,UniversityJunc(Janabharti),8,0.0,141,117
+vehicle_breakdown,West Zone 1,Unknown,116,0.03,121,360
+vehicle_breakdown,West Zone 2,5thMainRPC Layout-Vijayanagar,3,0.0,53,66
+vehicle_breakdown,West Zone 2,AttiguppeCircleJunction,1,0.0,13,13
+vehicle_breakdown,West Zone 2,BanashankariBusStandJunc,4,0.0,148,149
+vehicle_breakdown,West Zone 2,BasavamantapaJunc-Dr RajkumarRd,1,0.0,17,17
+vehicle_breakdown,West Zone 2,BhashyamCircle,3,0.0,46,72
+vehicle_breakdown,West Zone 2,BhashyamCircle-SadashivNagar,4,0.0,83,79
+vehicle_breakdown,West Zone 2,CIL CrossJunction-JayamahalRd,1,0.0,351,351
+vehicle_breakdown,West Zone 2,ChandraLayoutJunc-nearWaterTank,2,0.0,129,129
+vehicle_breakdown,West Zone 2,CholurpalyaJunction(MagadiRd),1,0.0,11,11
+vehicle_breakdown,West Zone 2,DMRoadJunc(Basavangudi),1,0.0,139,139
+vehicle_breakdown,West Zone 2,DhobiGhatJunc,7,0.0,151,140
+vehicle_breakdown,West Zone 2,Dr RajkumarRd-10thCrossRdJunc,1,0.0,120,120
+vehicle_breakdown,West Zone 2,Fire Force Junction,1,0.0,10,10
+vehicle_breakdown,West Zone 2,Geethanjali jn,1,0.0,149,149
+vehicle_breakdown,West Zone 2,ItmaduJunction,5,0.0,56,78
+vehicle_breakdown,West Zone 2,JaiMuniRaoCircle,1,0.0,100,100
+vehicle_breakdown,West Zone 2,KHB Junction,1,1.0,153,153
+vehicle_breakdown,West Zone 2,KIMCO Junction,17,0.06,135,113
+vehicle_breakdown,West Zone 2,KadirenahalliJunction,1,0.0,176,176
+vehicle_breakdown,West Zone 2,KamakyaJunction,1,0.0,45,45
+vehicle_breakdown,West Zone 2,KatriguppeJunction,4,0.0,91,96
+vehicle_breakdown,West Zone 2,MC Circle,5,0.0,170,135
+vehicle_breakdown,West Zone 2,MS RamaiahJunc(TollGate),9,0.0,64,81
+vehicle_breakdown,West Zone 2,Malleswaram18thCrossRd-SampigeRdJunc,4,0.0,128,115
+vehicle_breakdown,West Zone 2,MargosaRd-18thCrossJunc,3,0.0,71,87
+vehicle_breakdown,West Zone 2,MekhriCircle,33,0.0,128,111
+vehicle_breakdown,West Zone 2,MysoreRd-RingRdJunc(Nayandanahallii),7,0.0,100,108
+vehicle_breakdown,West Zone 2,NCERT Junction,1,0.0,146,146
+vehicle_breakdown,West Zone 2,NavarangTheatreJunction,1,0.0,137,137
+vehicle_breakdown,West Zone 2,PES-DevegowdaCircle,1,0.0,151,151
+vehicle_breakdown,West Zone 2,PrasannaJunction,2,0.0,54,54
+vehicle_breakdown,West Zone 2,PuttammaChoultryNagarbhavi,1,0.0,164,164
+vehicle_breakdown,West Zone 2,Rajajinagar19thMainJunc,2,0.0,150,150
+vehicle_breakdown,West Zone 2,RajajinagarEntranceJunction,2,0.0,172,172
+vehicle_breakdown,West Zone 2,RajarajeshwariKalyanaMantapaJunc,1,0.0,124,124
+vehicle_breakdown,West Zone 2,SadashivnagarJunc,9,0.44,37,71
+vehicle_breakdown,West Zone 2,SatteliteBusStandJunc,36,0.03,85,90
+vehicle_breakdown,West Zone 2,ShankarMuttCircle,2,0.5,98,98
+vehicle_breakdown,West Zone 2,ShivanahalliJunctionWOC,2,0.0,99,99
+vehicle_breakdown,West Zone 2,Sumanhalli,2,0.0,83,83
+vehicle_breakdown,West Zone 2,TataInstituteCircle,9,0.22,84,93
+vehicle_breakdown,West Zone 2,TumkurRdMarappanapalyaJunc,2,0.0,82,82
+vehicle_breakdown,West Zone 2,Unknown,48,0.0,127,404
+vehicle_breakdown,West Zone 2,VijayanagarBusStandJunction,3,0.0,33,64
+vehicle_breakdown,West Zone 2,YeshwanthpuraCircle,27,0.04,38,65
+vehicle_breakdown,West Zone 2,toll gate mysore road,1,0.0,58,58
+vip_movement,South Zone 2,Unknown,1,0.0,22763,22763
+vip_movement,Unknown,A S CharStreet-MysoreRdJunc,1,0.0,14,14
+vip_movement,Unknown,Unknown,18,0.89,300,1242
