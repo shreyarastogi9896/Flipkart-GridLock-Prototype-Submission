@@ -55,7 +55,7 @@ def get_graph_for_route(source_lat: float, source_lng: float, dest_lat: float, d
     )
 
     # Minimum 1.5 km, enough extra margin for alternative roads, capped for demo speed.
-    dist_m = int(max(1500, min(8000, (max_distance_km * 1000) + 2000)))
+    dist_m = int(max(1200, min(3000, (max_distance_km * 1000) + 2000)))
     return load_graph(center_lat, center_lng, dist_m).copy()
 
 
